@@ -1,4 +1,4 @@
-#Stocks Analysis with VBA 
+# Stocks Analysis with VBA 
 
 ## Overview of Project
 ### Purpose
